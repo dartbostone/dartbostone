@@ -45,7 +45,7 @@ A Junior Flutter developer with hands-on experience building cross-platform apps
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.demo.ashutoshh.dev/graph?username=dartbostone&theme=github-dark" alt="activity graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 ### 💭 Dev Quote
 
