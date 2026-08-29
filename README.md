@@ -45,7 +45,7 @@ A Junior Flutter developer with hands-on experience building cross-platform apps
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dartbostone&theme=github-dark" alt="activity graph" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dartbostone&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 💭 Dev Quote
