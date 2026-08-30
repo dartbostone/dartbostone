@@ -31,7 +31,7 @@ A Junior Flutter developer with hands-on experience building cross-platform apps
 
 <p align="left">
   <a href="https://www.linkedin.com/in/moturi-bostone/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://file:///C:/Users/cruso/Downloads/moturi_bostone_portfolio%20(3).html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dartbostone.github.io/bostoneportfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:moturibostone@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
