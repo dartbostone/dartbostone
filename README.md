@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-A Junior Flutter developer with hands-on experience building cross-platform apps, integrating Firebase, and applying responsive UI/UX — currently seeking an internship to grow into a professional mobile engineer.
+A Junior Flutter developer with hands-on experience building cross-platform apps, integrating Firebase, and applying responsive UI/UX —
 
 🔭 &nbsp;I'm currently working on **A Daily Expense &amp; Budget Tracker with flutter**  
 🌱 &nbsp;I'm currently learning **Flutter's Riverpod**  
